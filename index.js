@@ -15,4 +15,4 @@ let randomNumber = (Math.random() * 20) + 1;
 
 const randomInteger = Math.floor(randomNumber);
 
-const randomUserID =  randomInteger(Math.random() * 10000000) + 1;
+const randomUserID =  randomInteger
